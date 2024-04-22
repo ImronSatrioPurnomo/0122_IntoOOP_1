@@ -16,7 +16,7 @@ public:
 
 class Matakuliah {
 	private:
-		string kdoeMk;
+		string kodeMk;
 		string namaMk;
 		int sks;
 public:
@@ -34,3 +34,7 @@ public:
 		cout << "SKS: " << sks << endl;
 	}
 };
+
+int main() {
+
+}
