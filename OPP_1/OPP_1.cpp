@@ -17,4 +17,6 @@ public:
 class Matakuliah {
 	private:
 		string kdoeMk;
+		string namaMk;
+
 };
