@@ -30,5 +30,6 @@ public:
 	}
 	void output() {
 		cout << "kode MK: " << kodeMk << endl;
+		cout << "Nama MK: " << namaMk << endl;
 	}
 };
