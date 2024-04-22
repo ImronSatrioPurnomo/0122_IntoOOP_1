@@ -15,6 +15,6 @@ public:
 };
 
 class Matakuliah {
-private:
-
+	private:
+		string kdoeMk;
 };
